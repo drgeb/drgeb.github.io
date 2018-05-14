@@ -58,6 +58,7 @@ table.myheader {
   table-layout: fixed;
   width: 100%;
   cellpadding: 50;
+  margin: 20px auto;
 }
 
 div.border {
@@ -65,18 +66,31 @@ div.border {
   background-color: darkslategray;
 }
 
+table,
+td,
+th {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  border: solid 1px;
+  text-align: center;
+}
+
 i.fa-file-pdf {
-  color: purple;
+  color: red;
   font-size:48px;
 }
 
 i.fa-file-word {
-  color: lightyellow;
+  color: darkblue;
   font-size:48px;
 }
 
 i.fa-envelope {
-  color:lightblue;
+  color: salmon;
   font-size:48px
 }
 
@@ -91,7 +105,7 @@ i.fa-bitbucket {
 }
 
 i.fa-linked-in {
-  color:salmon;
+  color: light-blue;
   font-size:48px;
 }
 
