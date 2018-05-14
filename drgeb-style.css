@@ -75,7 +75,7 @@ th {
 th,
 td {
   padding: 10px;
-  border: solid 1px;
+  border: solid 0px;
   text-align: center;
 }
 
@@ -95,17 +95,17 @@ i.fa-envelope {
 }
 
 i.fa-github {
-  color:lightgreen;
+  color: limegreen;
   font-size:48px;
 }
 
 i.fa-bitbucket {
-  color:lightgreen;
+  color: rgb(0,51,102);
   font-size:48px;
 }
 
-i.fa-linked-in {
-  color: light-blue;
+i.fa-linkedin-square {
+  color: rgb(0,119,181);
   font-size:48px;
 }
 
