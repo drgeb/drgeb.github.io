@@ -1,0 +1,50 @@
+#+TITLE: My Resume on github.io
+#+AUTHOR: Dr. Gerald E. Bennett
+#+EMAIL:  drgbennett@gmail.com
+#+DATE:      <2018-04-24 Tue 8:30am>
+#+LANGUAGE:  en
+#+INFOJS_OPT: view:showall toc:t ltoc:t mouse:underline path:http://orgmode.org/org-info.js
+#+LINK_HOME: http://ehneilsen.net
+#+LINK_UP: http://ehneilsen.net/notebook
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/notebook.css" />
+#+LaTeX_CLASS: smarticle
+#+LaTeX_HEADER: \pdfmapfile{/home/neilsen/texmf/fonts/map/dvips/libertine/libertine.map}
+#+LaTeX_HEADER: \usepackage[ttscale=.875]{libertine}
+#+LaTeX_HEADER: \usepackage{sectsty}
+#+LaTeX_HEADER: \sectionfont{\normalfont\scshape}
+#+LaTeX_HEADER: \subsectionfont{\normalfont\itshape}
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
+#+STARTUP: showall
+
+* Hi I am Dr. Gerald E. Bennett
+
+* Everyone just calls me 'Gerry'
+
+* I was born in a little town called Volendam
+
+* I was raised In Aruba
+
+** Languages
+In aruba the native language is Papiamento. I grew up speaking this at home, however the official language is Dutch.
+Elementary as well as High School is all taught in Dutch. Depending on families origins and roots English, French, Spanish, Russian or Portuguese could be an additional language spoken at home.
+My dad his primary language spoken at home was English as a result I also very early on was introduced to English.
+
+Definately this affected my love for languages and especially now for being open to learn different programming languages. Each language has its pro’s and cons and lends itself for certain expressions to be easier then others.
+
+
+* My first Computer:
+
+** I saved up every monetary gift I got for my birthday, money I made working delivering fruits, selling fruits I picked in the yr for 3 or for years and decided to goldsborough
+buy an Atari. The Atari at the time was very popular on the island.
+** However I came home with:  The Texas Instruments Texas Instruments TI-99/4A
+
+* Decided to come and study in the USA
+** North Eastern University
+
+* Decided to learn Chemical Engineering
+
+* I Immediately fell in love with Programming and my First Computer Language: Fortran 77
+** The days of the VAX
+** THe days of the DEC
